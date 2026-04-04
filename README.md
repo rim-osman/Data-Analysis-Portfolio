@@ -22,7 +22,7 @@ This is a repository to showcase skills, share projects and track my progress in
     
 - [Education](https://github.com/rim-osman/Data-Analysis-Portfolio/blob/main/README.md#education)
 
-- Certificates
+- [Certificates](https://github.com/rim-osman/Data-Analysis-Portfolio/blob/main/README.md#certificates)
 
 - Contact
 
