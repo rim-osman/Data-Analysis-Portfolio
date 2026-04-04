@@ -37,6 +37,10 @@ National Lebanese Baccalaureate: Science and Mathematics, 2014 - 2016
 
 
 # Certificates
+The best way to showcase my skills is by doing and sharing the work you've completed but certifications often reflect that effort and growth as well. I'm excited to share the certifications I've earned, which complement my hands-on experience in data and analytics: 
+  - Data Analytics Bootcamp Certification
+  - Atlassian Agile Project Management Professional Certificate
+  - [JIRA: Basic Administration](https://www.coursera.org/account/accomplishments/verify/S7ZXNFMXNE53?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course)  
 
 # Contacts 
 - LinkedIn: [@rimosman](https://www.linkedin.com/in/rim-osman/)
