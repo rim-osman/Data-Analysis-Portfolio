@@ -13,3 +13,11 @@ This is a repository to showcase skills, share projects and track my progress in
 # Table of Contents
 - [[About]](https://github.com/rim-osman/Data-Analysis-Portfolio/blob/main/README.md#about)
 - [Portfolio Projects]
+
+# Portfolio Projects 
+
+# Education 
+
+# Certificates
+
+# Contacts 
