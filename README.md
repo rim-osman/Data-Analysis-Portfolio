@@ -33,7 +33,7 @@ Université Marie & Louis Pasteur, Besançon, France: Master of Science - MS, Bu
 
 Saint-Joseph University of Beirut, Lebanon: Bachelor's degree, Banking and Finance, 2016 - 2019
 
-Pre University School: National Lebanese Baccalaureate degree, Science and Mathematics, 2014 - 2016
+National Lebanese Baccalaureate: Science and Mathematics, 2014 - 2016
 
 
 # Certificates
