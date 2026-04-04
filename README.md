@@ -9,3 +9,7 @@ I am actively interested in opportunities within leading UAE banks and consultin
 Here is my CV in [pdf](https://github.com/rim-osman/Data-Analysis-Portfolio/blob/main/CV%20-%20Data%20Analyst%20.pdf).
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Business Intelligence related topics.
+
+# Table of Contents
+- [About]
+- [Portfolio Projects]
