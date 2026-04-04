@@ -17,7 +17,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - Python
   - SQL
   - Excel
-  - Tableau---> [Go to Tableau](https://public.tableau.com/app/profile/rimm.osman)
+  - Tableau---> [Go to Tableau](https://public.tableau.com/app/profile/rimm.osman/vizzes)
   - Power BI
     
 - [Education](https://github.com/rim-osman/Data-Analysis-Portfolio/blob/main/README.md#education)
