@@ -6,6 +6,6 @@ Through my experience in fintech and Agile environments, I've worked with SQL, E
 
 I am actively interested in opportunities within leading UAE banks and consulting firms, where I can contribute to high-impact data and transformation projects in fast-paced, international environments.
 
-Here is my CV in [pdf](https://canva.link/hctyckt72xe0wm0).
+Here is my CV in [pdf](https://github.com/rim-osman/Data-Analysis-Portfolio/blob/main/CV%20-%20Data%20Analyst%20.pdf).
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Business Intelligence related topics.
