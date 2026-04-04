@@ -20,7 +20,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - Tableau---> [Go to Tableau](https://public.tableau.com/app/profile/rimm.osman)
   - Power BI
     
-- Education
+- [Education](https://github.com/rim-osman/Data-Analysis-Portfolio/blob/main/README.md#education)
 
 - Certificates
 
