@@ -17,7 +17,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - Python
   - SQL
   - Excel
-  - Tableau---> Go to Tableau
+  - Tableau---> [Go to Tableau](https://public.tableau.com/app/profile/rim.osman1579/vizzes)
   - Power BI
 
 # Portfolio Projects 
