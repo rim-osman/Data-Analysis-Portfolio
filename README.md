@@ -12,7 +12,13 @@ This is a repository to showcase skills, share projects and track my progress in
 
 # Table of Contents
 - [[About]](https://github.com/rim-osman/Data-Analysis-Portfolio/blob/main/README.md#about)
+
 - [[Portfolio Projects]](https://github.com/rim-osman/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+  - Python
+  - SQL
+  - Excel
+  - Tableau---> Go to Tableau
+  - Power BI
 
 # Portfolio Projects 
 
