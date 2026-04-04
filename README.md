@@ -39,3 +39,5 @@ National Lebanese Baccalaureate: Science and Mathematics, 2014 - 2016
 # Certificates
 
 # Contacts 
+- LinkedIn: [@rimosman](https://www.linkedin.com/in/rim-osman/)
+- Email: rimmosman@gmail.com
