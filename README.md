@@ -11,5 +11,5 @@ Here is my CV in [pdf](https://github.com/rim-osman/Data-Analysis-Portfolio/blob
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Business Intelligence related topics.
 
 # Table of Contents
-- [About]
+- [[About]](https://github.com/rim-osman/Data-Analysis-Portfolio/blob/main/README.md#about)
 - [Portfolio Projects]
