@@ -6,6 +6,6 @@ Through my experience in fintech and Agile environments, I've worked with SQL, E
 
 I am actively interested in opportunities within leading UAE banks and consulting firms, where I can contribute to high-impact data and transformation projects in fast-paced, international environments.
 
-Here is my CV in [pdf](https://canva.link/6ycsv9y3i6vy9qy).
+Here is my CV in [pdf](https://canva.link/hctyckt72xe0wm0).
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
