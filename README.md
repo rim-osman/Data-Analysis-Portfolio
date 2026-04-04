@@ -29,7 +29,12 @@ This is a repository to showcase skills, share projects and track my progress in
 # Portfolio Projects 
 
 # Education 
-Marie et Louis Pasteur University 
+Université Marie & Louis Pasteur, Besançon, France: Master of Science - MS, Business Intelligence, Sep 2022 - Oct 2024
+
+Université Saint-Joseph, Beirut, Lebanon: Bachelor's degree, Banking and Finance, 2016 - 2019
+
+Pre University School: Associate's degree, Science and Mathematics, 2014 - 2016
+
 
 # Certificates
 
