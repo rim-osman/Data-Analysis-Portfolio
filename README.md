@@ -24,7 +24,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 - [Certificates](https://github.com/rim-osman/Data-Analysis-Portfolio/blob/main/README.md#certificates)
 
-- Contact
+- [Contact](https://github.com/rim-osman/Data-Analysis-Portfolio/blob/main/README.md#contacts)
 
 # Portfolio Projects 
 
