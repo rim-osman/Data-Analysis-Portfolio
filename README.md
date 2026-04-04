@@ -4,6 +4,6 @@ Hi, I'm Rim! I'm a Data Analyst and Product Owner with a strong background in ba
 
 Through my experience in fintech and Agile environments, I've worked with SQL, Excel, and data visualization tools to improve data quality, streamline processes, and deliver business-driven solutions aligned with stakeholder needs.
 
-I am actively interested in opportunities within leading UAE banks and consulting firms, where I can contribute high-impact data and transformation projects in fast-paced, international environments.
+I am actively interested in opportunities within leading UAE banks and consulting firms, where I can contribute to high-impact data and transformation projects in fast-paced, international environments.
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
