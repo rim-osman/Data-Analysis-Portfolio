@@ -29,6 +29,7 @@ This is a repository to showcase skills, share projects and track my progress in
 # Portfolio Projects 
 
 # Education 
+Marie et Louis Pasteur University 
 
 # Certificates
 
