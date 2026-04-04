@@ -1,5 +1,5 @@
 # Rim-Osman - Data Analyst Portfolio
-## About
+## About 
 Hi, I'm Rim! I'm a Data Analyst and Product Owner with a strong background in banking, regulatory compliance, and digital transformation. I specialize in translating complex data into actionable insights that support strategic decision-making and operational efficiency. 
 
 Through my experience in fintech and Agile environments, I've worked with SQL, Excel, and data visualization tools to improve data quality, streamline processes, and deliver business-driven solutions aligned with stakeholder needs.
@@ -8,4 +8,4 @@ I am actively interested in opportunities within leading UAE banks and consultin
 
 Here is my CV in [pdf](https://canva.link/hctyckt72xe0wm0).
 
-This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+This is a repository to showcase skills, share projects and track my progress in Data Analytics / Business Intelligence related topics.
