@@ -27,6 +27,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Contact](https://github.com/rim-osman/Data-Analysis-Portfolio/blob/main/README.md#contacts)
 
 # Portfolio Projects 
+In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 # Education 
 Université Marie & Louis Pasteur, Besançon, France: Master of Science - MS, Business Intelligence, Sep 2022 - Oct 2024
