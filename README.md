@@ -32,8 +32,8 @@ In this section, I will list data analytics projects briefly describing the tech
 ### Global GDP Analysis (1998-2024)
 **Code:** [`Global_GDP_Analysis.sql`](https://github.com/rim-osman/PortfolioProjects/blob/main/GDP%20Portfolio%20Project.sql)
 
-**📌 Project Overview:** This project is an end-to-end data analysis pipeline exploring global GDP trends from 1998 to 2024.
-Using SQL for data preperation and analytics, the project uncovers insights about economic growth, regional performance, and income group dynalimcs. The goal is to analyze global economic trends and identify which countries, regions, and income groups contribute the most to GDP growth over time.
+**📌 Project Overview:** This project presents an end-to-end SQL-based analysis of global GDP trends from 1998 to 2024.
+The objective is to explore how economic power is distributed across countries, regions, and income groups, and to identify key patterns that can support strategic, financial, and policy-related decision-making.
 
 **Objectives:** 
 - Clean and standardize raw GDP and metadata tables
