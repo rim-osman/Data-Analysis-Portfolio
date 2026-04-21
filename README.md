@@ -175,11 +175,11 @@ The analysis was performed using SQL on a cleaned dataset (layoffs_staging2) and
 - **Funding Stage Sensitivity:** Post-IPO and late-stage companies experienced the highest layoffs, suggesting pressure on large-scale organizations to restructure during downturns.
 
 # Education 
-Université Marie & Louis Pasteur, Besançon, France: Master of Science - MS, Business Intelligence, Sep 2022 - Oct 2024
+- 🎓 Université Marie & Louis Pasteur, Besançon, France: Master of Science - MS, Business Intelligence, Sep 2022 - Oct 2024
 
-Saint-Joseph University of Beirut, Lebanon: Bachelor's degree, Banking and Finance, 2016 - 2019
+- 🎓 Saint-Joseph University of Beirut, Lebanon: Bachelor's degree, Banking and Finance, 2016 - 2019
 
-National Lebanese Baccalaureate: Science and Mathematics, 2014 - 2016
+- 🎓 National Lebanese Baccalaureate: Science and Mathematics, 2014 - 2016
 
 
 # Certificates
