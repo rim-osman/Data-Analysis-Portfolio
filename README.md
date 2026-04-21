@@ -29,7 +29,7 @@ This repository showcases my projects, technical skills, and continuous learning
 
 - [Contact](https://github.com/rim-osman/Data-Analysis-Portfolio/blob/main/README.md#contacts)
 
-# 📌 Portfolio Projects 
+# Portfolio Projects 
 In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Global GDP Analysis (1998-2024)
@@ -174,7 +174,7 @@ The analysis was performed using SQL on a cleaned dataset (layoffs_staging2) and
 - **Cumulative Trend (Rolling Impact):** Rolling sum analysis shows a continuous increase in total layoffs over time, highlighting the long-term workforce impact beyond isolated events.
 - **Funding Stage Sensitivity:** Post-IPO and late-stage companies experienced the highest layoffs, suggesting pressure on large-scale organizations to restructure during downturns.
 
-# 🎓 Education 
+# Education 
 - Université Marie & Louis Pasteur, Besançon, France: Master of Science - MS, Business Intelligence, Sep 2022 - Oct 2024
 
 - Saint-Joseph University of Beirut, Lebanon: Bachelor's degree, Banking and Finance, 2016 - 2019
@@ -182,12 +182,12 @@ The analysis was performed using SQL on a cleaned dataset (layoffs_staging2) and
 - National Lebanese Baccalaureate: Science and Mathematics, 2014 - 2016
 
 
-# 🏅 Certificates
+# Certificates
 The best way to showcase my skills is by doing and sharing the work you've completed but certifications often reflect that effort and growth as well. I'm excited to share the certifications I've earned, which complement my hands-on experience in data and analytics: 
   - [Data Analytics Bootcamp Certification](https://www.linkedin.com/in/rim-osman/overlay/1772130321074/single-media-viewer/?profileId=ACoAADbIX08BF_tpDZPiItlm8tTyMkeY8AdQfHQ&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_featured_details%3BNaf1xv3jSJO8jZ%2FJUcmkmQ%3D%3D) (March 2026) (Youtube - Alexander Freberg)
   - [Atlassian Agile Project Management Professional Certificate](https://drive.google.com/drive/folders/1zpGHlPN5Q3eJp46ypW1ao6q1nN4jpYK-?usp=drive_link) (March 2025) (Coursera - Atlassian/LinkedIn Learning)
   - [JIRA: Basic Administration](https://www.coursera.org/account/accomplishments/verify/S7ZXNFMXNE53?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course) (April 2024) (Coursera - Atlassian/LinkedIn Learning)
 
-# 📬 Contacts 
+# Contacts 
 - 🔗 LinkedIn: [@rimosman](https://www.linkedin.com/in/rim-osman/)
 - 📧 Email: rimmosman@gmail.com
