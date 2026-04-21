@@ -32,13 +32,22 @@ In this section, I will list data analytics projects briefly describing the tech
 ### Global GDP Analysis (1998-2024)
 **Code:** [`Global_GDP_Analysis.sql`](https://github.com/rim-osman/PortfolioProjects/blob/main/GDP%20Portfolio%20Project.sql)
 
-**Goal:** To analyze global economic trends and identify which countries, regions, and income groups contribute the most to GDP growth over time.
+**📌Project Overview:** This project is an end-to-end data analysis pipeline exploring global GDP trends from 1998 to 2024.
+Using SQL for data preperation and analytics, the project uncovers insights about economic growth, regional performance, and income group dynalimcs. The goal is to analyze global economic trends and identify which countries, regions, and income groups contribute the most to GDP growth over time.
 
-**Description:** The project focused on analyzing a global GDP dataset covering the period from 1998 to 2024. The dataset included country names, country codes, yearly GDP values, regions, and income groups. 
-The project involved building an end-to-end data pipeline using SQL, starting with data cleaning and preprocessing (removing duplicates, standardizing text fields), followed by filtering valid countries using an ISO reference table. 
-A strucured data model was then created using a fact table (GDP data) and a dimension table (country metadata). 
-The analysis included calculating year-over-year GDP growth using window functions, ranking countries by GDP per year, identifying top-performing economies, and comparing regional and incolme group performance. 
-Additional analysis explored GDP trends during economic crises (2008,2020), as well as identifying the top economies in the Middle East region. 
+**Objectives:** 
+- Clean and standardize raw GDP and metadata tables
+- Build a structured data model (fact + dimension tables)
+- Analyze GDP growth trends over time
+- Identify top economies globally
+- Compare regions and income groups
+- Provide insights useful for policymakers, analysts, and investors
+
+**Dataset Description:** The project uses three main datasets: 
+
+- gdp_data -> Country GDP values per year
+- metadata_countries -> Country metadata (Region, Income Group)
+- iso_countries -> Reference table for valid country codes
 
 **Skills:** Data Cleaning, Data Transformation, Data Modeling, Window Functions, Ranking, Aggregate Functions, Analytical Thinking, Business Insight Generation.
 
