@@ -115,9 +115,11 @@ SQL (SQLite), Data Cleaning, Data Modeling, Window Functions, Analytical Thinkin
 - Post-IPO companies were most impacted
 
 # Education 
-- Université Marie & Louis Pasteur, Besançon, France: Master of Science - MS, Business Intelligence, Sep 2022 - Oct 2024
-- Saint-Joseph University of Beirut, Lebanon: Bachelor's degree, Banking and Finance, 2016 - 2019
-- National Lebanese Baccalaureate: Science and Mathematics, 2014 - 2016
+- MSc Business Intelligence - Université Marie & Louis Pasteur, France (2022-2024)
+  
+- Bachelor's in Banking and Finance - Saint Joseph University of Beirut, Lebanon (2016-2019)
+  
+- National Lebanese Baccalaureate (Science and Mathematics) - Lebanon (2014-2016)
 
 
 # Certificates
