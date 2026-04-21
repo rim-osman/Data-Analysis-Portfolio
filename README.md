@@ -53,10 +53,30 @@ Using SQL for data preperation and analytics, the project uncovers insights abou
 
 **Technology:** SQL (SQLite)
 
-**Results:** The analysis revealed that global GDP is highly concentrated among a small number of countries, with United States consistently leading across all years. China showed the fastest long-term growth, becoming a dominant global economy. 
-At the regional level, East Asia & Pacific and North America contribute the largest share of global GDP, while income group analysis showed that high-income countries dominate overall output, and upper-middle-income countries demonstrate the strongest growth rates. 
-The analysis also highlighted the imoact of global crises, with notieable GDP slowdownds during 2008 and 2020, followed by strong recovery periods. 
-In the Middle East, Saudi Arabia emerged as the leading economy.
+**📊 Key Insights:** 
+🌐 Global Economy
+
+- GDP is highly concentrated in a few countries
+- The United States remains the largest economy across all years
+- China shows strong long-term growth and global influence
+
+📉 Economic Shocks
+
+- Clear downturns during:
+  - 2008 financial crisis
+  - 2020 COVID-19 Pandemic
+
+ 🌍 Regional Trends
+
+ - East Asia & Pacific and North America dominate global GDP
+ - Middle East growth is driven by oil economies
+ - Sub-Saharan Africa shows gradual but limited growth
+
+💰 Income Inequality 
+
+- High-income countries dominate global GDP
+- Upper-middle-income countries show fastest growth
+- Low-income countries lag significantly
 
 # Education 
 Université Marie & Louis Pasteur, Besançon, France: Master of Science - MS, Business Intelligence, Sep 2022 - Oct 2024
