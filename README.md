@@ -93,6 +93,29 @@ The data cleaning process was performed in SQL using a structured, step-by-step 
 - Identified duplicates using ROW_NUMBER() with partitioning across all key columns
 - Removed duplicate rows while preserving original records
 
+**3. Data Standardization**
+
+- Trimmed whitespace in text fields (e.g., company names)
+- Standardized inconsistent values (e.g., “Crypto”, “Crypto Currency” → “Crypto”)
+- Fixed formatting issues (e.g., trailing punctuation in country names)
+- Converted date fields into a consistent format (YYYY-MM-DD)
+
+**4. Handling NULL & Missing Values**
+
+- Converted text-based 'NULL' and empty strings into actual SQL NULL values
+- Populated missing values using self-joins where possible (e.g., filling missing industry values based on company + location)
+- Identified and evaluated incomplete records
+
+**5. Data Filtering**
+
+- Removed rows with insufficient or unreliable data (e.g., missing both total layoffs and percentage)
+- Dropped unnecessary columns after processing
+
+**Dataset Description:**
+
+- `layoffs`-> This dataset contains real-world company layoff records collected across multiple industries and countries. It includes structured and semi-structured fields covering workforce reductions, company context, funding, and timing.
+The data is intentionally inconsistent in places (missing values, mixed formats, and duplicates), making it suitable for practicing real-world data cleaning and standardization techniques.
+
 **Skills & Tools:** 
 
 - SQL (SQLite & MySQL)
@@ -100,8 +123,7 @@ The data cleaning process was performed in SQL using a structured, step-by-step 
 - Data Validation
 - Handling Missing Data
 - Window Functions (ROW_NUMBER)
-- Data Standardization Techniques 
-
+- Data Standardization Techniques
 
 # Education 
 Université Marie & Louis Pasteur, Besançon, France: Master of Science - MS, Business Intelligence, Sep 2022 - Oct 2024
