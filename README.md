@@ -113,7 +113,7 @@ The data cleaning process was performed in SQL using a structured, step-by-step 
 
 **Dataset Description:**
 
-- `layoffs`-> This dataset contains real-world company layoff records collected across multiple industries and countries. It includes structured and semi-structured fields covering workforce reductions, company context, funding, and timing.
+`layoffs`-> This dataset contains real-world company layoff records collected across multiple industries and countries. It includes structured and semi-structured fields covering workforce reductions, company context, funding, and timing.
 The data is intentionally inconsistent in places (missing values, mixed formats, and duplicates), making it suitable for practicing real-world data cleaning and standardization techniques.
 
 **Skills & Tools:** 
