@@ -54,6 +54,7 @@ Using SQL for data preperation and analytics, the project uncovers insights abou
 **Technology:** SQL (SQLite)
 
 **📊 Key Insights:** 
+
 🌐 Global Economy
 
 - GDP is highly concentrated in a few countries
