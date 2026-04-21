@@ -32,6 +32,22 @@ In this section, I will list data analytics projects briefly describing the tech
 ### Global GDP Analysis (1998-2024)
 **Code:** [`Global_GDP_Analysis.sql`](https://github.com/rim-osman/PortfolioProjects/blob/main/GDP%20Portfolio%20Project.sql)
 
+**Goal:** To analyze global economic trends and identify which countries, regions, and income groups contribute the most to GDP growth over time.
+
+**Description:** The project focused on analyzing a global GDP dataset covering the period from 1998 to 2024. The dataset included country names, country codes, yearly GDP values, regions, and income groups. 
+The project involved building an end-to-end data pipeline using SQL, starting with data cleaning and preprocessing (removing duplicates, standardizing text fields), followed by filtering valid countries using an ISO reference table. 
+A strucured data model was then created using a fact table (GDP data) and a dimension table (country metadata). 
+The analysis included calculating year-over-year GDP growth using window functions, ranking countries by GDP per year, identifying top-performing economies, and comparing regional and incolme group performance. 
+Additional analysis explored GDP trends during economic crises (2008,2020), as well as identifying the top economies in the Middle East region. 
+
+**Skills:** Data Cleaning, Data Transformation, Data Modeling, Window Functions, Ranking, Aggregate Functions, Analytical Thinking, Business Insight Generation.
+
+**Technology:** SQL (SQLite)
+
+**Results:** The analysis revealed that global GDP is highly concentrated among a small number of countries, with United States consistently leading across all years. China showed the fastest long-term growth, becoming a dominant global economy. 
+At the regional level, East Asia & Pacific and North America contribute the largest share of global GDP, while income group analysis showed that high-income countries dominate overall output, and upper-middle-income countries demonstrate the strongest growth rates. 
+The analysis also highlighted the imoact of global crises, with notieable GDP slowdownds during 2008 and 2020, followed by strong recovery periods. 
+In the Middle East, Saudi Arabia emerged as the leading economy.
 
 # Education 
 Université Marie & Louis Pasteur, Besançon, France: Master of Science - MS, Business Intelligence, Sep 2022 - Oct 2024
