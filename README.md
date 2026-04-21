@@ -124,6 +124,54 @@ The data is intentionally inconsistent in places (missing values, mixed formats,
 - Handling Missing Data
 - Window Functions (ROW_NUMBER)
 - Data Standardization Techniques
+  
+### Global Layoffs Data Exploration 
+**Code:** [`Data Exploration Layoffs.sql`]([https://github.com/rim osman/PortfolioProjects/blob/main/Data%20Cleaning%20layoffs%20Project.sql])
+
+**📌 Project Overview:** This project presents an exploratory data analysis (EDA) of global company layoffs between 2020 and 2023. After completing a full data cleaning phase, the objective of this analysis is to explore patterns, trends, and distributions of layoffs across companies, industries, countries, and time.
+The goal is to uncover meaningful insights about how global economic events (such as COVID-19 and market downturns) influenced workforce reductions across different sectors.
+
+**Problem Statement:** 
+Layoffs are often influenced by economic conditions, company performance, and industry cycles. This project aims to answer:
+
+- Which companies and industries were most affected by layoffs?
+- How did layoffs evolve over time (monthly and yearly trends)?
+- Which countries experienced the highest job losses?
+- Which funding stages were most impacted?
+- How did layoffs progress cumulatively over time?
+
+**Approach:** 
+
+The analysis was performed using SQL on a cleaned dataset (layoffs_staging2) and follows a structured exploratory workflow:
+
+- Performed initial statistical exploration (min/max layoffs, extreme values)
+- Identified companies with 100% workforce reduction
+- Analyzed total layoffs by company, industry, country, and stage
+- Investigated temporal trends (daily, monthly, yearly)
+- Fixed and validated date inconsistencies before time-based analysis
+- Used window functions for rolling totals and ranking
+- Applied CTEs for structured multi-step analysis
+
+**Skills & Tools:** 
+
+- SQL (SQLite & MySQL)
+- Data Exploration & EDA Techniques 
+- Data Cleaning Validation during analysis 
+- Aggregations & Grouping
+- Window Functions (Rolling Sums, Ranking)
+- CTEs (Common Table Expressions)
+- Time-Series Analysis in SQL
+- Analytical Thinking & Business Insight Extraction
+
+**Key Findings & Business Insights:** 
+
+- **Massive Layoff Concentration:** A small number of large companies (e.g., Microsoft, Amazon, Meta, Uber) account for a significant portion of global layoffs.
+- **COVID-19 Impact:** The analysis shows a strong spike in layoffs starting in 2020, aligning with the COVID-19 pandemic period, followed by sustained reductions through 2022–2023.
+- **Industry Vulnerability:** Consumer and Retail industries were among the most affected, reflecting reduced demand and economic slowdown during global disruptions.
+- **Country-level Distribution:** The United States recorded the highest number of layoffs, far exceeding other countries in total job losses.
+- **Peak Layoff Year:** 2022 was identified as the most severe year in terms of layoffs, with sustained high levels continuing into early 2023.
+- **Cumulative Trend (Rolling Impact):** Rolling sum analysis shows a continuous increase in total layoffs over time, highlighting the long-term workforce impact beyond isolated events.
+- **Funding Stage Sensitivity:** Post-IPO and late-stage companies experienced the highest layoffs, suggesting pressure on large-scale organizations to restructure during downturns.
 
 # Education 
 Université Marie & Louis Pasteur, Besançon, France: Master of Science - MS, Business Intelligence, Sep 2022 - Oct 2024
