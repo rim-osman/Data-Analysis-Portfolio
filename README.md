@@ -20,7 +20,7 @@ This repository showcases my projects, technical skills, and continuous learning
   - SQL
     - [Global GDP Analysis (1998-2024)](https://github.com/rim-osman/Data-Analysis-Portfolio/blob/main/README.md#global-gdp-analysis-1998-2024)
     - [Global Layoffs Data Cleaning](https://github.com/rim-osman/Data-Analysis-Portfolio/blob/main/README.md#global-layoffs-data-cleaning)
-    - [Global Layoffs Exploratory Data Analysis (EDA)](https://github.com/rim-osman/Data-Analysis-Portfolio/blob/main/README.md#global-layoffs-data-exploration)
+    - [Global Layoffs Exploratory Data Analysis (EDA)](https://github.com/rim-osman/Data-Analysis-Portfolio/blob/main/README.md#global-layoffs-exploratory-data-analysis-eda)
   - Excel
   - Tableau---> [Go to Tableau](https://public.tableau.com/app/profile/rimm.osman/vizzes)
   - Power BI
