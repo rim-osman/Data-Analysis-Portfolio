@@ -71,7 +71,7 @@ Understanding global economic dynamics is essential for financial institutions, 
 - **Income Dynamics:** High-income countries dominate, while emerging economies show faster growth.
 
 ### Global Layoffs Data Cleaning 
-**Code:** [Data Cleaning Layoffs.sql](
+**Code:** [Data Cleaning Layoffs.sql](/Users/rimosman/Desktop/Data Bootcamp/Data Cleaning Layoffs dataset/Data Cleaning layoffs Project.sql)
 
 # Education 
 Université Marie & Louis Pasteur, Besançon, France: Master of Science - MS, Business Intelligence, Sep 2022 - Oct 2024
