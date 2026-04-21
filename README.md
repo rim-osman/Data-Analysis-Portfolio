@@ -182,7 +182,7 @@ The analysis was performed using SQL on a cleaned dataset (layoffs_staging2) and
 - 🎓 National Lebanese Baccalaureate: Science and Mathematics, 2014 - 2016
 
 
-# Certificates
+# 🏅 Certificates
 The best way to showcase my skills is by doing and sharing the work you've completed but certifications often reflect that effort and growth as well. I'm excited to share the certifications I've earned, which complement my hands-on experience in data and analytics: 
   - [Data Analytics Bootcamp Certification](https://www.linkedin.com/in/rim-osman/overlay/1772130321074/single-media-viewer/?profileId=ACoAADbIX08BF_tpDZPiItlm8tTyMkeY8AdQfHQ&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_featured_details%3BNaf1xv3jSJO8jZ%2FJUcmkmQ%3D%3D) (March 2026) (Youtube - Alexander Freberg)
   - [Atlassian Agile Project Management Professional Certificate](https://drive.google.com/drive/folders/1zpGHlPN5Q3eJp46ypW1ao6q1nN4jpYK-?usp=drive_link) (March 2025) (Coursera - Atlassian/LinkedIn Learning)
