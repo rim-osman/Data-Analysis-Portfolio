@@ -29,6 +29,10 @@ This is a repository to showcase skills, share projects and track my progress in
 # Portfolio Projects 
 In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
 
+### Global GDP Analysis (1998-2024)
+**Code:**[Global_GDP_Analysis.sql](
+
+
 # Education 
 Université Marie & Louis Pasteur, Besançon, France: Master of Science - MS, Business Intelligence, Sep 2022 - Oct 2024
 
