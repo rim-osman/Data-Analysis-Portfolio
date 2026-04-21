@@ -38,98 +38,62 @@ In this section, I will list data analytics projects briefly describing the tech
 **Code:** [`Global_GDP_Analysis.sql`](https://github.com/rim-osman/PortfolioProjects/blob/main/GDP%20Portfolio%20Project.sql)
 
 **Project Overview:** This project presents an end-to-end SQL-based analysis of global GDP trends from 1998 to 2024.
-The objective is to explore how economic power is distributed across countries, regions, and income groups, and to identify key patterns that can support strategic, financial, and policy-related decision-making.
+The goal is to understand how economic power is distributed across countries, regions, and income groups, and to identify key patterns that can support strategic, financial, and policy-related decision-making.
 
 **Problem Statement:** 
-Understanding global economic dynamics is essential for financial institutions, investors, and policymakers. This project aims to answer:
+This project aims to answer:
 
 - Which countries and regions drive global economic growth?
 - How do global crises impact economic performance?
 
 **Approach:** 
 
-- Cleaned and standardized raw GDP datasets to ensure consistency and accuracy
-- Designed a structured data model (fact and dimension tables)
-- Performed advanced SQL analysis using joins, window functions, aggregations, and ranking techniques
-- Analyzed trends across time, regions, and income segments
+- Cleaned and standardized raw GDP datasets 
+- Built structured data models (fact & dimension tables)
+- Used SQL joins, window functions, aggregations, and ranking 
+- Analyzed trends across time, regions, and income levels
 
 **Dataset Description:**
 
 - `gdp_data` -> Annual GDP values by country
-- `metadata_countries` -> Region & income group classification 
+- `metadata_countries` -> Region & income classification 
 - `iso_countries` -> Country code reference table
 
 **Skills & Tools:** 
+SQL (SQLite), Data Cleaning, Data Modeling, Window Functions, Analytical Thinking 
 
-- SQL (SQLite)
-- Data Cleaning & Transformation
-- Data Modeling (Star Schema)
-- Window Functions & Ranking
-- Analytical Thinking & Insight Generation
+**Key Insights:** 
 
-**Key Findings & Business Insights:** 
-
-- **Global Concentration:** GDP is dominated by a few major economies, led by the United States, with China showing strong long-term growth.
-- **Economic Shocks:** Clear downturns during the 2008 financial crisis and 2020 COVID-19 pandemic.
-- **Regional trends:** East Asia & Pacific and North America lead global GDP, while Middle East growth is oil-drive.
-- **Income Dynamics:** High-income countries dominate, while emerging economies show faster growth.
+- GDP concentrated in a few major economies (US, China)
+- Strong impact of 2008 financial crisis and COVID-19
+- Asia and North America dominate global GDP
+- Emerging economies show faster long-term growth
 
 ### Global Layoffs Data Cleaning 
 **Code:** [Data Cleaning Layoffs.sql](https://github.com/rim-osman/PortfolioProjects/blob/main/Data%20Cleaning%20layoffs%20Project.sql)
 
-**Project Overview:** This project focuses on cleaning and preparing a real-world layoffs dataset to ensure data quality, consistency, and usability for downstream analysis and visualization.
-The dataset contains information about company layoffs across industries, including company details, location, number of layoffs, funding, and company stage.
+**Project Overview:** This project focuses on cleaning and preparing a real-world layoffs dataset to ensure accuracy, consistency, and usability for analysis.
 
-**Objective:** To transform raw, inconsistent data into a clean and structured dataset ready for exploratory data analysis (EDA) and business insights.
+**Objective:** Transform raw, inconsistent data into a clean and structured dataset ready for EDA and business insights.
 
 **Approach:** 
-
-The data cleaning process was performed in SQL using a structured, step-by-step methodology aligned with real-world data practices:
-
-**1. Data Staging**
-
-- Created a staging table to preserve raw data integrity
-- Worked exclusively on duplicated tables to avoid modifying source data
-
-**2. Duplicate Removal**
-
-- Identified duplicates using ROW_NUMBER() with partitioning across all key columns
-- Removed duplicate rows while preserving original records
-
-**3. Data Standardization**
-
-- Trimmed whitespace in text fields (e.g., company names)
-- Standardized inconsistent values (e.g., “Crypto”, “Crypto Currency” → “Crypto”)
-- Fixed formatting issues (e.g., trailing punctuation in country names)
-- Converted date fields into a consistent format (YYYY-MM-DD)
-
-**4. Handling NULL & Missing Values**
-
-- Converted text-based 'NULL' and empty strings into actual SQL NULL values
-- Populated missing values using self-joins where possible (e.g., filling missing industry values based on company + location)
-- Identified and evaluated incomplete records
-
-**5. Data Filtering**
-
-- Removed rows with insufficient or unreliable data (e.g., missing both total layoffs and percentage)
-- Dropped unnecessary columns after processing
+- Created staging tables to protect raw data
+- Removed duplicates using `ROW_NUMBER()`
+- Standardized text fields and categorical values 
+- Fixed date formats (YYYY-MM-DD)
+- Handled missing values using SQL logic and self-joins
+- Filtered unreliable and incomplete records
 
 **Dataset Description:**
 
-`layoffs`-> This dataset contains real-world company layoff records collected across multiple industries and countries. It includes structured and semi-structured fields covering workforce reductions, company context, funding, and timing.
-The data is intentionally inconsistent in places (missing values, mixed formats, and duplicates), making it suitable for practicing real-world data cleaning and standardization techniques.
+- `layoffs`-> Global company layoff dataset containing workforce reductions, funding, company stages, and timing information across industries and countries.
 
 **Skills & Tools:** 
 
-- SQL (SQLite & MySQL)
-- Data Cleaning & Transformation
-- Data Validation
-- Handling Missing Data
-- Window Functions (ROW_NUMBER)
-- Data Standardization Techniques
+- SQL (SQLite & MySQL), Data Cleaning, Data Transformation, Handling Missing Data, Data Validation
   
-### Global Layoffs Data Exploration 
-**Code:** [`Data Exploration Layoffs`](https://github.com/rim-osman/PortfolioProjects/blob/main/Data%20Exploration%20layoffs%20Project.sql)
+### Global Layoffs Exploratory Data Analysis (EDA) 
+**Code:** [`Data_Exploration_Layoffs.sql`](https://github.com/rim-osman/PortfolioProjects/blob/main/Data%20Exploration%20layoffs%20Project.sql)
 
 **Project Overview:** This project presents an exploratory data analysis (EDA) of global company layoffs between 2020 and 2023. After completing a full data cleaning phase, the objective of this analysis is to explore patterns, trends, and distributions of layoffs across companies, industries, countries, and time.
 The goal is to uncover meaningful insights about how global economic events (such as COVID-19 and market downturns) influenced workforce reductions across different sectors.
