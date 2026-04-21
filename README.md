@@ -69,7 +69,9 @@ Understanding global economic dynamics is essential for financial institutions, 
 - **Economic Shocks:** Clear downturns during the 2008 financial crisis and 2020 COVID-19 pandemic.
 - **Regional trends:** East Asia & Pacific and North America lead global GDP, while Middle East growth is oil-drive.
 - **Income Dynamics:** High-income countries dominate, while emerging economies show faster growth.
-  
+
+### Global Layoffs Data Cleaning 
+**Code:** [Data Cleaning Layoffs.sql](
 
 # Education 
 Université Marie & Louis Pasteur, Besançon, France: Master of Science - MS, Business Intelligence, Sep 2022 - Oct 2024
