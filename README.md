@@ -1,10 +1,12 @@
 # Rim-Osman - Data Analyst Portfolio
 ## About 
-Hi, I'm Rim! I'm a Data and Business Analyst with 3+ years of experience helping businesses make sense of their data. I have a strong background in banking, regulatory compliance, and digital transformation. I specialize in translating complex data into actionable insights that support strategic decision-making and operational efficiency. 
+Hi, I'm **Rim Osman**, a Data and Business Analyst with 3+ years of experience helping organizations make sense of their data. 
 
-Through my experience in fintech and Agile environments, I've worked with SQL, Excel, and data visualization tools to improve data quality, streamline processes, and deliver business-driven solutions aligned with stakeholder needs.
+I have a strong background in **banking**, **regulatory compliance**, **and digital transformation**, with hands-on experience in Agile environments and fintech projects. I specialize in translating complex datasets into clear business insights that **support strategic decision-making and operational efficiency.**
 
-I am actively interested in opportunities within leading UAE banks and consulting firms, where I can contribute to high-impact data and transformation projects in fast-paced, international environments.
+I work with **SQL, Excel, and data visualization tools** to clean, analyze, and visualize data while improving data quality and supporting business stakeholders. 
+
+I am actively interested in opportunities within **leading UAE banks and consulting firms**, where I can contribute to high-impact data and transformation initiatives in fast-paced, international environments.
 
 Here is my CV in [pdf](https://github.com/rim-osman/Data-Analysis-Portfolio/blob/main/CV%20-%20Data%20Analyst%20.pdf).
 
