@@ -84,23 +84,14 @@ The dataset contains information about company layoffs across industries, includ
 The data cleaning process was performed in SQL using a structured, step-by-step methodology aligned with real-world data practices:
 
 **1. Data Staging**
+
 - Created a staging table to preserve raw data integrity
 - Worked exclusively on duplicated tables to avoid modifying source data
+
 **2. Duplicate Removal**
+
 - Identified duplicates using ROW_NUMBER() with partitioning across all key columns
 - Removed duplicate rows while preserving original records
-**3. Data Standardization:**
-- Trimmed whitespace in text fields (e.g., company names)
-- Standardized inconsistent values (e.g., “Crypto”, “Crypto Currency” → “Crypto”)
-- Fixed formatting issues (e.g., trailing punctuation in country names)
-- Converted date fields into a consistent format (YYYY-MM-DD)
-**4. Handling NULL & Missing Values**
-- Converted text-based 'NULL' and empty strings into actual SQL NULL values
-- Populated missing values using self-joins where possible (e.g., filling missing industry values based on company + location)
-- Identified and evaluated incomplete records
-**5. Data Filtering**
-- Removed rows with insufficient or unreliable data (e.g., missing both total layoffs and percentage)
-- Dropped unnecessary columns after processing
 
 **Skills & Tools:** 
 
