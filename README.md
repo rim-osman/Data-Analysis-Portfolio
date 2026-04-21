@@ -16,7 +16,8 @@ This repository showcases my projects, technical skills, and continuous learning
 - [[Portfolio Projects]](https://github.com/rim-osman/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
   - Python
   - SQL
-    - [Global GDP Analysis (1998-2024)](
+    - [Global GDP Analysis (1998-2024)](https://github.com/rim-osman/Data-Analysis-Portfolio/blob/main/README.md#global-gdp-analysis-1998-2024)
+    - [Global Layoffs Data Cleaning]
   - Excel
   - Tableau---> [Go to Tableau](https://public.tableau.com/app/profile/rimm.osman/vizzes)
   - Power BI
