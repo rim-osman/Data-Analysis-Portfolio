@@ -126,7 +126,7 @@ The data is intentionally inconsistent in places (missing values, mixed formats,
 - Data Standardization Techniques
   
 ### Global Layoffs Data Exploration 
-**Code:** [`Data Exploration Layoffs.sql`]([https://github.com/rim osman/PortfolioProjects/blob/main/Data%20Cleaning%20layoffs%20Project.sql])
+**Code:** [`Data Exploration Layoffs.sql`](https://github.com/rim osman/PortfolioProjects/blob/main/Data%20Cleaning%20layoffs%20Project.sql)
 
 **📌 Project Overview:** This project presents an exploratory data analysis (EDA) of global company layoffs between 2020 and 2023. After completing a full data cleaning phase, the objective of this analysis is to explore patterns, trends, and distributions of layoffs across companies, industries, countries, and time.
 The goal is to uncover meaningful insights about how global economic events (such as COVID-19 and market downturns) influenced workforce reductions across different sectors.
