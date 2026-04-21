@@ -41,13 +41,10 @@ In this section, I will list data analytics projects briefly describing the tech
 The goal is to understand how economic power is distributed across countries, regions, and income groups, and to identify key patterns that can support strategic, financial, and policy-related decision-making.
 
 **Problem Statement:** 
-This project aims to answer:
-
 - Which countries and regions drive global economic growth?
 - How do global crises impact economic performance?
 
 **Approach:** 
-
 - Cleaned and standardized raw GDP datasets 
 - Built structured data models (fact & dimension tables)
 - Used SQL joins, window functions, aggregations, and ranking 
@@ -63,7 +60,6 @@ This project aims to answer:
 SQL (SQLite), Data Cleaning, Data Modeling, Window Functions, Analytical Thinking 
 
 **Key Insights:** 
-
 - GDP concentrated in a few major economies (US, China)
 - Strong impact of 2008 financial crisis and COVID-19
 - Asia and North America dominate global GDP
@@ -85,11 +81,9 @@ SQL (SQLite), Data Cleaning, Data Modeling, Window Functions, Analytical Thinkin
 - Filtered unreliable and incomplete records
 
 **Dataset Description:**
-
 - `layoffs`-> Global company layoff dataset containing workforce reductions, funding, company stages, and timing information across industries and countries.
 
 **Skills & Tools:** 
-
 - SQL (SQLite & MySQL), Data Cleaning, Data Transformation, Handling Missing Data, Data Validation
   
 ### Global Layoffs Exploratory Data Analysis (EDA) 
@@ -122,9 +116,7 @@ SQL (SQLite), Data Cleaning, Data Modeling, Window Functions, Analytical Thinkin
 
 # Education 
 - Université Marie & Louis Pasteur, Besançon, France: Master of Science - MS, Business Intelligence, Sep 2022 - Oct 2024
-
 - Saint-Joseph University of Beirut, Lebanon: Bachelor's degree, Banking and Finance, 2016 - 2019
-
 - National Lebanese Baccalaureate: Science and Mathematics, 2014 - 2016
 
 
