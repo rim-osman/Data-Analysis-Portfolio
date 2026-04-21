@@ -65,11 +65,7 @@ Understanding global economic dynamics is essential for financial institutions, 
 
 **Key Findings & Business Insights:** 
 
-- **Global Concentration:** GDP is dominated by a few major economies,
-  Implication:
--
--
-- GDP is dominated by a few major economies, led by the United States, with China showing strong long-term growth.Implication: Highlights exposure concentration and the need for diversification strategies
+- **Global Concentration:** GDP is dominated by a few major economies, led by the United States, with China showing strong long-term growth.
 - **Economic Shocks:** Clear downturns during the 2008 financial crisis and 2020 COVID-19 pandemic.
 - **Regional trends:** East Asia & Pacific and North America lead global GDP, while Middle East growth is oil-drive.
 - **Income Dynamics:** High-income countries dominate, while emerging economies show faster growth.
