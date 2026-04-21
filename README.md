@@ -47,7 +47,6 @@ Understanding global economic dynamics is essential for financial institutions, 
 - Designed a structured data model (fact and dimension tables)
 - Performed advanced SQL analysis using joins, window functions, aggregations, and ranking techniques
 - Analyzed trends across time, regions, and income segments
-  
 
 **Dataset Description:**
 
@@ -72,6 +71,44 @@ Understanding global economic dynamics is essential for financial institutions, 
 
 ### Global Layoffs Data Cleaning 
 **Code:** [`Data Cleaning Layoffs.sql`](https://github.com/rim-osman/PortfolioProjects/blob/main/Data%20Cleaning%20layoffs%20Project.sql)
+
+**📌 Project Overview:** This project focuses on cleaning and preparing a real-world layoffs dataset to ensure data quality, consistency, and usability for downstream analysis and visualization.
+The dataset contains information about company layoffs across industries, including company details, location, number of layoffs, funding, and company stage.
+
+**Objective:** To transform raw, inconsistent data into a clean and structured dataset ready for exploratory data analysis (EDA) and business insights.
+
+**Approach:** 
+
+The data cleaning process was performed in SQL using a structured, step-by-step methodology aligned with real-world data practices:
+
+**1. Data Staging**
+- Created a staging table to preserve raw data integrity
+- Worked exclusively on duplicated tables to avoid modifying source data
+**2. Duplicate Removal**
+- Identified duplicates using ROW_NUMBER() with partitioning across all key columns
+- Removed duplicate rows while preserving original records
+**3. Data Standardization:**
+- Trimmed whitespace in text fields (e.g., company names)
+- Standardized inconsistent values (e.g., “Crypto”, “Crypto Currency” → “Crypto”)
+- Fixed formatting issues (e.g., trailing punctuation in country names)
+- Converted date fields into a consistent format (YYYY-MM-DD)
+**4. Handling NULL & Missing Values**
+- Converted text-based 'NULL' and empty strings into actual SQL NULL values
+- Populated missing values using self-joins where possible (e.g., filling missing industry values based on company + location)
+- Identified and evaluated incomplete records
+**5. Data Filtering**
+- Removed rows with insufficient or unreliable data (e.g., missing both total layoffs and percentage)
+- Dropped unnecessary columns after processing
+
+**Skills & Tools:** 
+
+- SQL (SQLite & MySQL)
+- Data Cleaning & Transformation
+- Data Validation
+- Handling Missing Data
+- Window Functions (ROW_NUMBER)
+- Data Standardization Techniques 
+
 
 # Education 
 Université Marie & Louis Pasteur, Besançon, France: Master of Science - MS, Business Intelligence, Sep 2022 - Oct 2024
