@@ -73,7 +73,7 @@ Understanding global economic dynamics is essential for financial institutions, 
 - **Income Dynamics:** High-income countries dominate, while emerging economies show faster growth.
 
 ### Global Layoffs Data Cleaning 
-**Code:** [`Data Cleaning Layoffs.sql`](https://github.com/rim-osman/PortfolioProjects/blob/main/Data%20Cleaning%20layoffs%20Project.sql)
+**Code:** [Data Cleaning Layoffs.sql](
 
 **📌 Project Overview:** This project focuses on cleaning and preparing a real-world layoffs dataset to ensure data quality, consistency, and usability for downstream analysis and visualization.
 The dataset contains information about company layoffs across industries, including company details, location, number of layoffs, funding, and company stage.
