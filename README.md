@@ -29,13 +29,13 @@ This repository showcases my projects, technical skills, and continuous learning
 
 - [Contact](https://github.com/rim-osman/Data-Analysis-Portfolio/blob/main/README.md#contacts)
 
-# Portfolio Projects 
+# 📌 Portfolio Projects 
 In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Global GDP Analysis (1998-2024)
 **Code:** [`Global_GDP_Analysis.sql`](https://github.com/rim-osman/PortfolioProjects/blob/main/GDP%20Portfolio%20Project.sql)
 
-**📌 Project Overview:** This project presents an end-to-end SQL-based analysis of global GDP trends from 1998 to 2024.
+**Project Overview:** This project presents an end-to-end SQL-based analysis of global GDP trends from 1998 to 2024.
 The objective is to explore how economic power is distributed across countries, regions, and income groups, and to identify key patterns that can support strategic, financial, and policy-related decision-making.
 
 **Problem Statement:** 
@@ -75,7 +75,7 @@ Understanding global economic dynamics is essential for financial institutions, 
 ### Global Layoffs Data Cleaning 
 **Code:** [Data Cleaning Layoffs.sql](https://github.com/rim-osman/PortfolioProjects/blob/main/Data%20Cleaning%20layoffs%20Project.sql)
 
-**📌 Project Overview:** This project focuses on cleaning and preparing a real-world layoffs dataset to ensure data quality, consistency, and usability for downstream analysis and visualization.
+**Project Overview:** This project focuses on cleaning and preparing a real-world layoffs dataset to ensure data quality, consistency, and usability for downstream analysis and visualization.
 The dataset contains information about company layoffs across industries, including company details, location, number of layoffs, funding, and company stage.
 
 **Objective:** To transform raw, inconsistent data into a clean and structured dataset ready for exploratory data analysis (EDA) and business insights.
@@ -129,7 +129,7 @@ The data is intentionally inconsistent in places (missing values, mixed formats,
 ### Global Layoffs Data Exploration 
 **Code:** [`Data Exploration Layoffs`](https://github.com/rim-osman/PortfolioProjects/blob/main/Data%20Exploration%20layoffs%20Project.sql)
 
-**📌 Project Overview:** This project presents an exploratory data analysis (EDA) of global company layoffs between 2020 and 2023. After completing a full data cleaning phase, the objective of this analysis is to explore patterns, trends, and distributions of layoffs across companies, industries, countries, and time.
+**Project Overview:** This project presents an exploratory data analysis (EDA) of global company layoffs between 2020 and 2023. After completing a full data cleaning phase, the objective of this analysis is to explore patterns, trends, and distributions of layoffs across companies, industries, countries, and time.
 The goal is to uncover meaningful insights about how global economic events (such as COVID-19 and market downturns) influenced workforce reductions across different sectors.
 
 **Problem Statement:** 
@@ -174,7 +174,7 @@ The analysis was performed using SQL on a cleaned dataset (layoffs_staging2) and
 - **Cumulative Trend (Rolling Impact):** Rolling sum analysis shows a continuous increase in total layoffs over time, highlighting the long-term workforce impact beyond isolated events.
 - **Funding Stage Sensitivity:** Post-IPO and late-stage companies experienced the highest layoffs, suggesting pressure on large-scale organizations to restructure during downturns.
 
-# 🎓Education 
+# 🎓 Education 
 - Université Marie & Louis Pasteur, Besançon, France: Master of Science - MS, Business Intelligence, Sep 2022 - Oct 2024
 
 - Saint-Joseph University of Beirut, Lebanon: Bachelor's degree, Banking and Finance, 2016 - 2019
@@ -188,6 +188,6 @@ The best way to showcase my skills is by doing and sharing the work you've compl
   - [Atlassian Agile Project Management Professional Certificate](https://drive.google.com/drive/folders/1zpGHlPN5Q3eJp46ypW1ao6q1nN4jpYK-?usp=drive_link) (March 2025) (Coursera - Atlassian/LinkedIn Learning)
   - [JIRA: Basic Administration](https://www.coursera.org/account/accomplishments/verify/S7ZXNFMXNE53?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course) (April 2024) (Coursera - Atlassian/LinkedIn Learning)
 
-# Contacts 
-- LinkedIn: [@rimosman](https://www.linkedin.com/in/rim-osman/)
-- Email: rimmosman@gmail.com
+# 📬 Contacts 
+- 🔗 LinkedIn: [@rimosman](https://www.linkedin.com/in/rim-osman/)
+- 📧 Email: rimmosman@gmail.com
