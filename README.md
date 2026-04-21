@@ -35,19 +35,25 @@ In this section, I will list data analytics projects briefly describing the tech
 **📌 Project Overview:** This project presents an end-to-end SQL-based analysis of global GDP trends from 1998 to 2024.
 The objective is to explore how economic power is distributed across countries, regions, and income groups, and to identify key patterns that can support strategic, financial, and policy-related decision-making.
 
-**Objectives:** 
-- Clean and standardize raw GDP and metadata tables
-- Build a structured data model (fact + dimension tables)
-- Analyze GDP growth trends over time
-- Identify top economies globally
-- Compare regions and income groups
-- Provide insights useful for policymakers, analysts, and investors
+**Problem Statement:** 
+Understanding global economic dynamics is essential for financial institutions, investors, and policymakers. This project aims to answer:
 
-**Dataset Description:** The project uses three main datasets: 
+- Which countries and regions drive global economic growth?
+- How do global crises impact economic performance?
 
-- gdp_data -> Country GDP values per year
-- metadata_countries -> Country metadata (Region, Income Group)
-- iso_countries -> Reference table for valid country codes
+**Approach:** 
+
+- Cleaned and standardized raw GDP datasets to ensure consistency and accuracy
+- Designed a structured data model (fact and dimension tables)
+- Performed advanced SQL analysis using joins, window functions, aggregations, and ranking techniques
+- Analyzed trends across time, regions, and income segments
+  
+
+**Dataset Description:**
+
+- `gdp_data` -> Annual GDP values by country
+- `metadata_countries` -> Region & income group classification 
+- `iso_countries` -> Country code reference table
 
 **Skills:** Data Cleaning, Data Transformation, Data Modeling, Window Functions, Ranking, Aggregate Functions, Analytical Thinking, Business Insight Generation.
 
