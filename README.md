@@ -1,4 +1,4 @@
-# Rim-Osman - Data Analyst Portfolio
+# Rim Osman - Data Analyst Portfolio
 ## About 
 Hi, I'm **Rim Osman**, a Data and Business Analyst with 3+ years of experience helping organizations make sense of their data. 
 
