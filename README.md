@@ -66,7 +66,7 @@ SQL (SQLite), Data Cleaning, Data Modeling, Window Functions, Analytical Thinkin
 - Emerging economies show faster long-term growth
 
 ### Global Layoffs Data Cleaning 
-**Code:** [Data Cleaning Layoffs.sql](https://github.com/rim-osman/PortfolioProjects/blob/main/Data%20Cleaning%20layoffs%20Project.sql)
+**Code:** [Data_Cleaning_Layoffs.sql](https://github.com/rim-osman/PortfolioProjects/blob/main/Data%20Cleaning%20layoffs%20Project.sql)
 
 **Project Overview:** This project focuses on cleaning and preparing a real-world layoffs dataset to ensure accuracy, consistency, and usability for analysis.
 
