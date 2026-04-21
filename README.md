@@ -20,7 +20,7 @@ This repository showcases my projects, technical skills, and continuous learning
   - SQL
     - [Global GDP Analysis (1998-2024)](https://github.com/rim-osman/Data-Analysis-Portfolio/blob/main/README.md#global-gdp-analysis-1998-2024)
     - [Global Layoffs Data Cleaning](https://github.com/rim-osman/Data-Analysis-Portfolio/blob/main/README.md#global-layoffs-data-cleaning)
-    - [Global Layoffs Data Exploration](https://github.com/rim-osman/Data-Analysis-Portfolio/blob/main/README.md#global-layoffs-data-exploration)
+    - [Global Layoffs Exploratory Data Analysis (EDA)](https://github.com/rim-osman/Data-Analysis-Portfolio/blob/main/README.md#global-layoffs-data-exploration)
   - Excel
   - Tableau---> [Go to Tableau](https://public.tableau.com/app/profile/rimm.osman/vizzes)
   - Power BI
@@ -95,50 +95,30 @@ SQL (SQLite), Data Cleaning, Data Modeling, Window Functions, Analytical Thinkin
 ### Global Layoffs Exploratory Data Analysis (EDA) 
 **Code:** [`Data_Exploration_Layoffs.sql`](https://github.com/rim-osman/PortfolioProjects/blob/main/Data%20Exploration%20layoffs%20Project.sql)
 
-**Project Overview:** This project presents an exploratory data analysis (EDA) of global company layoffs between 2020 and 2023. After completing a full data cleaning phase, the objective of this analysis is to explore patterns, trends, and distributions of layoffs across companies, industries, countries, and time.
-The goal is to uncover meaningful insights about how global economic events (such as COVID-19 and market downturns) influenced workforce reductions across different sectors.
+**Project Overview:** This project explores global layoffs between 2020 and 2023 to identify trends, patterns, and business insights after data cleaning.
 
 **Problem Statement:** 
-Layoffs are often influenced by economic conditions, company performance, and industry cycles. This project aims to answer:
-
-- Which companies and industries were most affected by layoffs?
-- How did layoffs evolve over time (monthly and yearly trends)?
-- Which countries experienced the highest job losses?
-- Which funding stages were most impacted?
-- How did layoffs progress cumulatively over time?
+- Which companies and industries were most affected?
+- How did layoffs evolve over time?
+- Which countries and funding stages were most impacted?
 
 **Approach:** 
-
-The analysis was performed using SQL on a cleaned dataset (layoffs_staging2) and follows a structured exploratory workflow:
-
-- Performed initial statistical exploration (min/max layoffs, extreme values)
-- Identified companies with 100% workforce reduction
-- Analyzed total layoffs by company, industry, country, and stage
-- Investigated temporal trends (daily, monthly, yearly)
-- Fixed and validated date inconsistencies before time-based analysis
-- Used window functions for rolling totals and ranking
-- Applied CTEs for structured multi-step analysis
+- Analyzed extreme values and distributions
+- Identified companies with 100% workforce loss
+- Aggregated layoffs by company, industry, country, and stage
+- Performed time-series analysis (monthly & yearly trends)
+- Used CTEs and window functions (rolling totals, ranking)
 
 **Skills & Tools:** 
+- SQL (SQLite & MySQL), EDA, Window Functions, CTEs, Aggregation, Time-Series Analysis 
 
-- SQL (SQLite & MySQL)
-- Data Exploration & EDA Techniques 
-- Data Cleaning Validation during analysis 
-- Aggregations & Grouping
-- Window Functions (Rolling Sums, Ranking)
-- CTEs (Common Table Expressions)
-- Time-Series Analysis in SQL
-- Analytical Thinking & Business Insight Extraction
-
-**Key Findings & Business Insights:** 
-
-- **Massive Layoff Concentration:** A small number of large companies (e.g., Microsoft, Amazon, Meta, Uber) account for a significant portion of global layoffs.
-- **COVID-19 Impact:** The analysis shows a strong spike in layoffs starting in 2020, aligning with the COVID-19 pandemic period, followed by sustained reductions through 2022–2023.
-- **Industry Vulnerability:** Consumer and Retail industries were among the most affected, reflecting reduced demand and economic slowdown during global disruptions.
-- **Country-level Distribution:** The United States recorded the highest number of layoffs, far exceeding other countries in total job losses.
-- **Peak Layoff Year:** 2022 was identified as the most severe year in terms of layoffs, with sustained high levels continuing into early 2023.
-- **Cumulative Trend (Rolling Impact):** Rolling sum analysis shows a continuous increase in total layoffs over time, highlighting the long-term workforce impact beyond isolated events.
-- **Funding Stage Sensitivity:** Post-IPO and late-stage companies experienced the highest layoffs, suggesting pressure on large-scale organizations to restructure during downturns.
+**Key Insights:** 
+- Massive concentration of layoffs in major tech companies (Microsoft, Amazon, Meta, Uber) 
+- Strong impact of COVID-19 starting in 2020
+- Consumer & Retail industries heavily affected
+- USA recorded the highest number of layoffs
+- 2022 was the peak layoff year globally
+- Post-IPO companies were most impacted
 
 # Education 
 - Université Marie & Louis Pasteur, Besançon, France: Master of Science - MS, Business Intelligence, Sep 2022 - Oct 2024
