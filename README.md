@@ -6,7 +6,7 @@ I have a strong background in **banking**, **regulatory compliance**, **and digi
 
 I work with **SQL, Excel, and data visualization tools** to clean, analyze, and visualize data while improving data quality and supporting business stakeholders. 
 
-I am actively interested in opportunities within **leading UAE banks and consulting firms**, where I can contribute to high-impact data and transformation initiatives in fast-paced, international environments.
+I am actively seeking opportunities within **leading organizations across the Gulf region (UAE, Qatar, and broader GCC), including banks and consulting firms**, where I can contribute to high-impact data and transformation initiatives in fast-paced, international environments.
 
 Here is my CV in [pdf](https://github.com/rim-osman/Data-Analysis-Portfolio/blob/main/CV.pdf)
 
