@@ -8,7 +8,7 @@ I work with **SQL, Excel, and data visualization tools** to clean, analyze, and 
 
 I am actively seeking opportunities within **leading organizations across the Gulf region (UAE & Qatar), including banks and consulting firms**, where I can contribute to high-impact data and transformation initiatives in fast-paced, international environments.
 
-Here is my CV in [pdf](Rim Osman - CV.pdf)
+Here is my CV in [pdf](https://github.com/rim-osman/Data-Analysis-Portfolio/blob/main/Rim%20Osman%20-%20CV.pdf)
 
 This repository showcases my projects, technical skills, and continuous learning journey in Data Analytics and Business Intelligence.
 
